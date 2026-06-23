@@ -205,7 +205,6 @@ jupyter notebook Ride_Hailing_Business_Performance_Analysis.ipynb
 ## 📚 Read More
 
 - 📖 **Full article on Medium:** [Driving Smarter Decisions: An End-to-End Ride-Hailing Business Performance Analysis](https://medium.com/@raihanmasyalhaidar/driving-smarter-decisions-an-end-to-end-ride-hailing-business-performance-analysis-9f33b2cec518)
-- 📄 **Detailed report:** `Ride_Hailing_Performance_Report.docx`
 - 💾 **Dataset:** [Uber Ride Analytics Dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard) (Kaggle)
 
 ---
