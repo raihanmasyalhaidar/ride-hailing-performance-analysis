@@ -124,14 +124,24 @@ Booking volume crests at **~18:00**, and completion rate stays in a narrow 61–
 
 ## 🚀 Strategic Recommendations
 
-| Priority | Recommendation | Rationale |
-|:---:|---|---|
-| 🔴 **P0** | **Make completion rate the primary metric** | It is the platform's most important business driver |
-| 🔴 **P0** | **Reduce cancellation-driven leakage** | Driver reliability score + stronger cancellation controls attack the largest failure mode |
-| 🟠 **P1** | **Strengthen customer retention** | Second-ride incentives, saved payment, frictionless rebooking convert one-time riders |
-| 🟠 **P1** | **Optimize supply during the evening peak** | Targeted incentives in the 17:00–20:00 window recover the costliest failures |
-| 🟡 **P2** | **Reduce avoidable customer cancellations** | Pickup-pin confirmation + driver status visibility cut "wrong address" cancels |
-| 🟡 **P2** | **Improve supply efficiency at the zone level** | Demand is dispersed, so rebalance by zone, not by route |
+* **Reduce Cancellation-Driven Revenue Leakage**
+  Driver cancellations are a major source of booking failures. Implement driver reliability scoring and stronger cancellation controls to improve completion rates and recover lost revenue.
+
+* **Make Completion Rate the Primary KPI**
+  Prioritize completion rate over booking volume as the core performance metric, since completed rides directly drive revenue and customer satisfaction.
+
+* **Strengthen Customer Retention**
+  Introduce second-ride incentives, seamless payment options, and frictionless rebooking to increase repeat usage and customer lifetime value.
+
+* **Optimize Supply During Peak Hours**
+  Focus driver incentives and supply allocation between **17:00–20:00**, when demand is highest and booking failures are most costly.
+
+* **Improve Supply Efficiency**
+  Use zone-based driver positioning and rebalancing strategies to better match geographically dispersed demand.
+
+### Key Takeaway
+
+The platform's largest growth opportunities lie in **improving completion rates, reducing cancellations, and increasing customer retention**. These initiatives are expected to deliver greater business impact than changes to pricing, payment methods, or vehicle categories.
 
 ---
 
