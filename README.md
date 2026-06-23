@@ -114,12 +114,6 @@ Auto earns the most revenue simply because it is booked most. Average fare (~₹
 
 Booking volume crests at **~18:00**, and completion rate stays in a narrow 61–64% band all day, so the operational challenge at peak is **volume**, not a collapse in conversion.
 
-### Retention Is the Biggest Opportunity
-
-<p align="center"><img src="charts/segments.png" width="420" alt="Customer segments"></p>
-
-**99.5%** of customers ride exactly once. Acquisition works; retention does not yet exist, making the "first-and-only rider" the single most valuable persona to design for.
-
 ---
 
 ## 🚀 Strategic Recommendations
