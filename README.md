@@ -1,4 +1,4 @@
-# 🚕 Driving Smarter Decisions: An End-to-End Ride-Hailing Business Performance Analysis
+# 🚕 End-to-End Ride-Hailing Business Analytics: From Python to Power BI
 
 > Generating business insights from ride-hailing data across India's National Capital Region to support strategic planning, service optimization, customer retention, and data-driven decision-making — from raw data in **Python**, through **SQL analysis in SQLite**, to an interactive **Power BI** dashboard.
 
