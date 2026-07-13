@@ -24,10 +24,11 @@ The headline finding is a significant efficiency gap. Only **62% of booking requ
 Unlike a single-notebook study, this project is delivered as a **full analytics pipeline**:
 
 ```
-Python  ──▶  SQLite  ──▶  Star Schema  ──▶  Power BI
-(clean,      (30+ SQL      (fact + 5 dim    (4-page dashboard,
- model,       queries,       tables for       24 DAX measures)
- ML)          window fns)    BI modelling)
+Python  ──▶  SQLite  ──▶  Power BI
+(data         (SQL           (interactive
+preparation,   analytics,     dashboards,
+EDA, ML)       window         business metrics,
+               functions)     DAX calculations)
 ```
 
 ---
